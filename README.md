@@ -8,5 +8,5 @@ The dataset is added. Instruction and dependencies are also provided in the note
 <br>
 <ol>
   <li><a href='https://github.com/Prabor1/Hotel_comment'>Hotel Comment</a></li>
-  <li><a herf='https://github.com/Prabor1/Movie_comment'>Movie Comment</a></li>
+  <li><a href='https://github.com/Prabor1/Movie_comment'>Movie Comment</a></li>
 </ol>
