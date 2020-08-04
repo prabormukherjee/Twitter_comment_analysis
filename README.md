@@ -7,6 +7,6 @@ After data cleaning I filted the data with NLTK , for removing the stopwords. Th
 The dataset is added. Instruction and dependencies are also provided in the notebook. The algorithm is also explained in the notebook.If you like to check some other NLP problem on sentiment analysis then here is some other project by me.
 <br>
 <ol>
-  <li><a href='https://github.com/Prabor1/Hotel_comment'>Hotel Comment</a></li>
-  <li><a href='https://github.com/Prabor1/Movie_comment'>Movie Comment</a></li>
+  <li><a href='https://github.com/Prabor1/Hotel_comment_analysis'>Hotel Comment Analysis</a></li>
+  <li><a href='https://github.com/Prabor1/Movie_comment_analysis'>Movie Comment Ananysis</a></li>
 </ol>
